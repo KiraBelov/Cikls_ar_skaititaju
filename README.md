@@ -1,2 +1,2 @@
 # Cikls_ar_skaititaju
-tas ir
+## Darbs Kiras Belovincevas 2PT1 
