@@ -12,3 +12,5 @@
 - [x] Programmai jānosaka, cik patiesas atbildes veicis lietotājs
 - [x] Ja tika dota pareizā atbilde, tad pēc visiem jautājumiem programmai jāizraksta visi jautājumi ar nepatiesām atbildēm
 - [x] Arī pēc nepareiziem jautājumiem jāraksta pareizās atbildes uz tiem
+
+man ir problēma, ceru, ka fails ar kodu ir saglabāts patiesā formātā, bet, ja tā nav, var pārbaudīt arī tā darba spēju šeit:
